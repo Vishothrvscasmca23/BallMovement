@@ -1,11 +1,11 @@
-BALL MOVEMENT
+## Ball-Movement
 
 In ball movement is a ball is made to move in vertical direction in fixed velocity.The ball moves right to left and wise versa which refers to bouncing. The ball is made to move X and Y axis
 
-STEPS TO RUN THE PROJECT
+## STEPS TO RUN THE PROJECT
 
 Open the github link to run the ball movement program
 
-FUTURE IMPROVEMENTS
+## FUTURE IMPROVEMENTS
 
 This project can be future enhanced by creating an animation like a boy bouncing the ball.
